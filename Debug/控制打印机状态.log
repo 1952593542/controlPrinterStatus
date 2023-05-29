@@ -1,0 +1,15 @@
+﻿生成启动时间为 2023/5/29 14:38:51。
+日志记录详细程度设置为: Normal。     1>项目“D:\workspace\projectBackUps\work\常州一院\打印机暂停\控制打印机状态\控制打印机状态.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\控制打印机状态.res" "控制打印机状态.rc" 
+       Link:
+         D:\VS code\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\workspace\projectBackUps\work\常州一院\打印机暂停\控制打印机状态\Debug\控制打印机状态.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\workspace\projectBackUps\work\常州一院\打印机暂停\控制打印机状态\Debug\控制打印机状态.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\workspace\projectBackUps\work\常州一院\打印机暂停\控制打印机状态\Debug\控制打印机状态.lib" /MACHINE:X86 "Debug\控制打印机状态.res"
+         "Debug\控制打印机状态.obj"
+         控制打印机状态.vcxproj -> D:\workspace\projectBackUps\work\常州一院\打印机暂停\控制打印机状态\Debug\控制打印机状态.exe
+     1>已完成生成项目“D:\workspace\projectBackUps\work\常州一院\打印机暂停\控制打印机状态\控制打印机状态.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.62
